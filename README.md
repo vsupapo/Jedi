@@ -1,5 +1,5 @@
 # Jedi
-A Programming Paradigms Project - SJSU
+### A Programming Paradigms Project - SJSU
 
 As an experimental language, Jedi supports:  
 - Lambdas, closures, and static scoping  
