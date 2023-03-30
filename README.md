@@ -1,4 +1,4 @@
-#Jedi
+# Jedi
 A Programming Paradigms Project - SJSU
 
 As an experimental language, Jedi supports:  
